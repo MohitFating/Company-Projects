@@ -1,0 +1,16 @@
+Column_Name,Column_Number,Education,Column_Repet_Time,Column_datatype
+age,1,HS-grad,118,int64
+workclass,2,Some-college,72,object
+fnlwgt,3,7th-8th,7,int64
+education,4,10th,11,object
+education.num,5,Doctorate,24,int64
+marital.status,6,Prof-school,40,object
+occupation,7,Bachelors,108,object
+relationship,8,Masters,67,object
+race,9,11th,10,object
+sex,10,Assoc-acdm,14,object
+capital.gain,11,Assoc-voc,19,int64
+capital.loss,12,1st-4th,2,int64
+hours.per.week,13,5th-6th,6,int64
+native.country,14,12th,1,object
+income,15,9th,1,object
